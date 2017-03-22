@@ -1,0 +1,16 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# building tools
+/.gradle/
+
+# compiled output
+/target/
+/build/
+
+# IDE - IntelliJ IDEA
+/.idea/
+*.iml
+
+# System Files
+.DS_Store
+Thumbs.db
