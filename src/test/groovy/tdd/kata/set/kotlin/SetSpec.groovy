@@ -20,7 +20,7 @@ class SetSpec extends Specification{
         when: "ACTIONS"
             set = set
         then: "RESULTS"
-            set = set
+            true
     }
 
     /*
